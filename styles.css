@@ -1,0 +1,47 @@
+body {
+    margin: auto 100px;
+    margin-bottom: 20px;
+}
+
+.contenedor {
+    display: block;
+    margin: 5px 0;
+}
+
+.top {
+    text-align: center;
+}
+
+.h-top {
+    margin-bottom: 0px;
+}
+
+.ldescription {
+    margin-top: 0px;
+}
+
+.nav-top {
+    margin-top: 20px;
+}
+
+#txtarea{
+    resize: none;
+    width: 20rem;
+}
+
+form {
+    margin-right: 500px;
+}
+
+#sendBtn {
+    margin-top: 7px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.separador {
+    margin-top: 60px;
+}
