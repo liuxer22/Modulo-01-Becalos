@@ -7,27 +7,21 @@
 1. Clona este repositorio:
 
     ```
-
     git clone https://github.com/liuxer22/Modulo-01-Becalos
-
     ```
 
 2. Navega al directorio del proyecto:
 
     ```
-
     cd Modulo-01-Becalos
-
     ```
 
 3. Ejecuta el proyecto:
 
-    ```
-
     Con Visual Studio Code:
 
+    ```
     code .
-
     ```
 
 ## Autor
