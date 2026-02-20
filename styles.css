@@ -1,6 +1,15 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 body {
     margin: auto 100px;
     margin-bottom: 20px;
+    background-color: rgb(226, 230, 236);
+}
+
+h2 {
+    margin-bottom: 0;
 }
 
 .contenedor {
@@ -8,29 +17,33 @@ body {
     margin: 5px 0;
 }
 
+.separador {
+    margin-top: 60px;
+}
+
 .top {
     text-align: center;
 }
 
-.h-top {
+.info_header {
     margin-bottom: 0px;
 }
 
-.ldescription {
+.info_description {
     margin-top: 0px;
 }
 
-.nav-top {
+.top_nav {
     margin-top: 20px;
+}
+
+form {
+    margin-right: 500px;
 }
 
 #txtarea{
     resize: none;
     width: 20rem;
-}
-
-form {
-    margin-right: 500px;
 }
 
 #sendBtn {
@@ -40,8 +53,4 @@ form {
 footer {
     text-align: center;
     margin-top: 40px;
-}
-
-.separador {
-    margin-top: 60px;
 }
